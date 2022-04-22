@@ -28,8 +28,9 @@ start using the package.
 TODO: Include short and useful examples for package users. Add longer examples
 to `/example` folder. 
 
-```dart
-const like = 'sample';
+```yaml
+trapezoid_tabbar:
+  git: https://github.com/HyBLF/trapezoid_tabbar.git
 ```
 
 ## Additional information
